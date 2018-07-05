@@ -15,6 +15,7 @@ body {
 
 .img-thumbnail {
     margin: 1px;
+    background-color: black;
 
 }
   /* new class */
